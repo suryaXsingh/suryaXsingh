@@ -8,11 +8,11 @@
 ╚═════╝░░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
 ```
 
-### _I am interested in:_ 
+### _I am interested in:_
  - Cyber Security
  - Data Science
- - Cryptography
  - Web Development
+ - GNU/Linux
  
  
  ### _Things I Know:_
