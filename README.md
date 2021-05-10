@@ -15,7 +15,7 @@
  - Web Development
  
  
- ### _Things I Know_
+ ### _Things I Know:_
  - Python
  - Bash 
  - SQL
