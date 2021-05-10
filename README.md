@@ -10,9 +10,9 @@
 
 ### _I am interested in:_
  - Cyber Security
- - Data Science
  - Machine Learning
  - Artificial Intelligence
+ - Web Development
  
  
  ### _Things I Know_
