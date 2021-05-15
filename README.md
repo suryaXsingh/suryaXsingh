@@ -11,8 +11,9 @@
 ### _I am interested in:_
  - Cyber Security
  - Machine Learning
+ - Data Science
  - Artificial Intelligence
- - Web Development
+
  
  
  ### _Things I Know:_
@@ -22,6 +23,5 @@
  - HTML
  - CSS
  - JavaScript
- - PHP
    
 
