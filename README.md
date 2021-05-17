@@ -16,7 +16,6 @@
  
  ### _Things I Know:_
  - Python
- - Bash 
  - SQL
  - HTML
  - CSS
